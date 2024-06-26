@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Guilherme
-- 🌱 I’m currently learning Computer Science at University of Minho
-- 🎓 Here are my completed university projects and exercises [University](https://github.com/Guilhermepp4/University)
+# 👋 Hi, I’m Guilherme
+### 🌱 I’m currently learning Computer Science at University of Minho
+  
+##  🎓 Here are my completed university projects and exercises ➡️ [UNIVERSITY](https://github.com/Guilhermepp4/University)
 
 
 <!---
