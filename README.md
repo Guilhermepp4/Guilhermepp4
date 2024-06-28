@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Guilherme
-### 🌱 I'm 20 years old and currently studying Computer Science at the Universidade do Minho.
+### 🌱 I'm 20 years old and currently studying Computer Science at Universidade do Minho.
   
 ###  🎓 My completed university projects and exercises ➡️ [UNIVERSITY](https://github.com/Guilhermepp4/University)
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermepp4&layout=compact&theme=highcontrast)
