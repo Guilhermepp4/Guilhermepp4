@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Guilherme
+![Visitor Count](https://hits.sh/github.com/[Guilhermepp4].svg)
 ### 🌱 I'm 20 years old and currently studying Computer Science at Universidade do Minho.
 ### 🎓 My completed university projects and exercises ➡️ [UNIVERSITY](https://github.com/Guilhermepp4/University)
 ### 🧑‍💻 Some of my Individual Projects ➡️ [PERSONAL PROJECTS](https://github.com/Guilhermepp4/Personal-Projects?tab=readme-ov-file)
