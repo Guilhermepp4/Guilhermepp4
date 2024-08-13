@@ -1,5 +1,4 @@
-# 👋 Hi, I’m Guilherme
-
+# 👋 Hi, I’m Guilherme <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Guilhermepp4.Guilhermepp4" />
 ### 🌱 I'm 20 years old and currently studying Computer Science at Universidade do Minho.
 ### 🎓 My completed university projects and exercises ➡️ [UNIVERSITY](https://github.com/Guilhermepp4/University)
 ### 🧑‍💻 Some of my Individual Projects ➡️ [PERSONAL PROJECTS](https://github.com/Guilhermepp4/Personal-Projects?tab=readme-ov-file)
