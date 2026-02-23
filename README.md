@@ -1,7 +1,18 @@
 # 👋 Hi, I’m Guilherme <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Guilhermepp4.Guilhermepp4" />
-### 🌱 I’m 20 years old and currently pursuing a Master’s in Computer Engineering at Universidade do Minho.
+### 🌱 I’m 21 years old and currently pursuing a Master’s in Computer Engineering at Universidade do Minho.
 ### 🎓 My completed university projects and exercises ➡️ [UNIVERSITY](https://github.com/Guilhermepp4/University)
 ### 🧑‍💻 Some of my Individual Projects ➡️ [PERSONAL PROJECTS](https://github.com/Guilhermepp4/Personal-Projects?tab=readme-ov-file)
-### Delve Into My Professional Journey: 
-### [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-bottom: 4px;"/>](https://www.linkedin.com/in/guilherme-pinho-260277316/?trk=opento_sprofile_topcard)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" height="50" alt="GNU Make Logo"><img src="https://img.icons8.com/color/452/java-coffee-cup-logo.png" width="50" height="50"> <img src="https://img.icons8.com/color/452/python.png" width="50" height="50"> <img src="https://img.icons8.com/color/452/c-programming.png" width="50" height="50"> <img src="https://github.com/user-attachments/assets/7795cf0d-c27b-4461-8d21-7b1e92a5ca46" widht="50" height="45"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/512px-Haskell-Logo.svg.png" width="50" height="50"><img src="https://github.com/user-attachments/assets/1ce1b951-52ee-4ccf-9464-f98b2d20ddb7" widht="50" height="45"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" widht="50" height="45"><img src="https://github.com/user-attachments/assets/e84eec6e-e049-49d0-b3bb-1552e544c0cf" widht="50" height="45"><img src="https://github.com/user-attachments/assets/b574abb5-654e-4dd6-befe-a29d410337fb" widht="50" height="45">
+### Get in touch 
+<p>
+  <a href = "https://www.linkedin.com/in/guilherme-pinho-260277316/">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href ="mailto:guilhermeppinho04@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+## 🚀 Languages & Tools I use:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,mysql,haskell,vscode,idea,anaconda,ansible,cmake,docker" />
+</p>
