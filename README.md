@@ -17,7 +17,7 @@
 
 ## 🔥 Stats  
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Guilhermepp4&layout=compact&langs_count=8&theme=github_dark&border_color=30363D" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Guilhermepp4&layout=compact&langs_count=8&theme=github_dark&border_color=0D1117" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilhermepp4&theme=dracula&hide_border=true&background=0d1117" alt="streak graph" />
   <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=Guilhermepp4&show_icons=true&theme=radical" /> -->
 </div>
