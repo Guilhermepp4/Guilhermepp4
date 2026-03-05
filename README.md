@@ -6,7 +6,7 @@
 ---
 
 ### 🌱 I’m 21 years old and currently pursuing a Master’s in Computer Engineering at Universidade do Minho.
-### 🎓 My completed university projects and exercises ➡️ [UNIVERSITY](https://github.com/Guilhermepp4/University)
+### 🎓 My completed university projects and exercises ➡️ [Bachelor](https://github.com/Guilhermepp4/University) [Master](https://github.com/Guilhermepp4/Master)
 ### 🧑‍💻 Some of my Individual Projects ➡️ [PERSONAL PROJECTS](https://github.com/Guilhermepp4/Personal-Projects?tab=readme-ov-file)
 
 
